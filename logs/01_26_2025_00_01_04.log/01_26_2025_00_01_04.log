@@ -1,0 +1,6 @@
+[ 2025-01-26 00:01:25,650 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-01-26 00:01:25,660 ] 107 dagshub - INFO - Accessing as dhruvh.patel213
+[ 2025-01-26 00:01:26,251 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/dhruvh.patel213/NetworkSecurity_DataScience "HTTP/1.1 200 OK"
+[ 2025-01-26 00:01:26,770 ] 1025 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-01-26 00:01:26,772 ] 107 dagshub - INFO - Initialized MLflow to track repo "dhruvh.patel213/NetworkSecurity_DataScience"
+[ 2025-01-26 00:01:26,775 ] 107 dagshub - INFO - Repository dhruvh.patel213/NetworkSecurity_DataScience initialized!
